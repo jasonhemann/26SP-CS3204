@@ -1,4 +1,4 @@
-first_week_of_year_offset: 1
+first_week_of_year_offset: 1 # Bad name - #days to shift from day of semester start timestamp to the day of week each week should start on (Monday)
 semester_start: "2026-01-11T00:00:00-05:00" # Date of Sunday before start of semester, America:New York
 semester_start_week: 3 # https://www.epochconverter.com/weeks/202X
 # https://www.timeanddate.com/time/change/usa?year=202X
