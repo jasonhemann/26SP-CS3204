@@ -1,12 +1,12 @@
 # === CHANGE THESE PER COURSE ===
-title                    : "Course Website Template"
+title                    : "26SP-CS3204 | 26SP-MATH3204 | 26SP-CORE3491"
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jason Hemann"
 description              : # ""
-baseurl                  : "/course-site-template"
-repository               : "jasonhemann/course-site-template"
-masthead_title           : "Semester YYYY CourseName"
+baseurl                  : "/26SP-CS3204"
+repository               : "jasonhemann/26SP-CS3204"
+masthead_title           : "Spring 2026 Logic and the Limits to Knowledge"
 # === END CHANGE THESE ===
 
 # Site Settings
