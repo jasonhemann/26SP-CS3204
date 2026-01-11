@@ -4,457 +4,337 @@ semester_start_week: 3 # https://www.epochconverter.com/weeks/202X
 # https://www.timeanddate.com/time/change/usa?year=202X
 dst_start_week: 10 # Week no. of Sunday where early AM DST happens
 dst_end_week: 44
+
+
 weeks:
   - week_offset: 0
     homework:
-      - title: "Basic Environment Setup Quiz"
+      - title: "Chapter leader sign-up"
         out: W
-        starter_code: "quiz2"
     sessions:
-      - day: W  # Monday
-        title: ""
+      - day: W
+        title: "Intro; Three-Part Invention; Ch 1 MU-Puzzle"
         topics:
-          - desc: ""
+          - desc: "Course framing; GEB overview; MU rules; invariant idea; two Day 1 quizzes"
         pre_readings:
-          - title: "Course Syllabus"
-            link: "../syllabus/"
-          - title: "Ch 1, \"Some Book\""
-        videos:
-          - title: "Video"
-            link: "https://example.com"
+          - title: "GEB Intro; Three-Part Invention; Ch 1 (pp. 3–42)"
+        videos: []
         extra_resources: []
+
   - week_offset: 1
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "No class (MLK Day)"
+        topics: []
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Two-Part Invention; Ch 2 Meaning & Form"
         topics:
-          - desc: ""
+          - desc: "pq-system; isomorphism; truth vs provability (preview)"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "GEB: Two-Part Invention; Ch 2"
+        videos: []
+        extra_resources: []
+
   - week_offset: 2
-    homework: []
+    homework:
+      - title: "Office-hours explanation sign-up (pq or MU invariant)"
+        out: M
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "Sonata (Unaccompanied); Ch 3 Figure & Ground"
         topics:
-          - desc: ""
+          - desc: "Figure/ground; RE vs R (recognition vs generation)"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: Sonata for Unaccompanied Achilles; Ch 3"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Contracrostipunctus; Ch 4 Consistency/Completeness/Geometry"
         topics:
-          - desc: ""
+          - desc: "Self-reference paraphrases; undefined terms; rival geometries"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "GEB: Contracrostipunctus; Ch 4"
+        videos: []
+        extra_resources: []
+
   - week_offset: 3
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "Little Harmonic Labyrinth; Ch 5 Recursion"
         topics:
-          - desc: ""
+          - desc: "Nested structures; recursion across domains"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: Little Harmonic Labyrinth; Ch 5"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Canon by Intervallic Augmentation; Ch 6 Location of Meaning"
         topics:
-          - desc: ""
+          - desc: "Where meaning resides; code/decoder/receiver"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "GEB: Canon by Intervallic Augmentation; Ch 6"
+        videos: []
+        extra_resources: []
+
   - week_offset: 4
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "Chromatic Fantasy; Ch 7 Propositional Calculus"
         topics:
-          - desc: ""
+          - desc: "Rules that preserve truth; zen-tences"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: Chromatic Fantasy; Ch 7"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Crab Canon; Ch 8 TNT"
         topics:
-          - desc: ""
+          - desc: "Typographical Number Theory; formal arithmetic"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "GEB: Crab Canon; Ch 8"
+        videos: []
+        extra_resources: []
+
   - week_offset: 5
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "A Mu Offering; Ch 9 Mumon & Godel"
         topics:
-          - desc: ""
+          - desc: "Zen metaphors; Godel numbering; first pass at incompleteness"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: A Mu Offering; Ch 9"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Nagel & Newman chs 1–3 (history; arithmetization; fixed points)"
         topics:
-          - desc: ""
+          - desc: "Scaffold for formal proof day; coding syntax; diagonal idea"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "Nagel & Newman: chs 1–3"
+        videos: []
+        extra_resources: []
+
   - week_offset: 6
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "Prelude ... ; Ch 10 Levels & Computer Systems"
         topics:
-          - desc: ""
+          - desc: "Levels of description; machine/assembly/compiler/OS"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: Prelude; Ch 10"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "... Ant Fugue; Ch 11 Brains & Thoughts"
         topics:
-          - desc: ""
+          - desc: "Holism vs reductionism; ant colony mind"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "GEB: Ant Fugue; Ch 11"
+        videos: []
+        extra_resources: []
+
   - week_offset: 7
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+      - day: M
+        title: "No class (Spring Break)"
+        topics: []
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "No class (Spring Break)"
+        topics: []
+        pre_readings: []
+        videos: []
+        extra_resources: []
+
   - week_offset: 8
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "English-French-German Suite; Ch 12 Minds & Thoughts"
         topics:
-          - desc: ""
+          - desc: "Mapping languages/minds; communication across brains"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: English-French-German Suite; Ch 12"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Aria w/ Diverse Variations; Ch 13 Bloop/Floop/Gloop"
         topics:
-          - desc: ""
+          - desc: "Primitive vs general recursion; predictable vs unbounded search"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "GEB: Aria with Diverse Variations; Ch 13"
+        videos: []
+        extra_resources: []
+
   - week_offset: 9
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "Air on G's String; Ch 14 Undecidable Propositions (Godel I proof day)"
         topics:
-          - desc: ""
+          - desc: "Diagonal lemma; true-but-unprovable; TNT completeness vs truth"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: Air on G's String; Ch 14"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Nagel & Newman chs 6–7; Boolos"
         topics:
-          - desc: ""
+          - desc: "Godel II in plain language; Con(T) unprovable inside T"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "Nagel & Newman: chs 6–7"
+          - title: "Boolos: Godel II in words of one syllable"
+        videos: []
+        extra_resources: []
+
   - week_offset: 10
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "Birthday Cantatatata; Ch 15 Jumping Out; Lucas"
         topics:
-          - desc: ""
+          - desc: "Essential incompleteness; Lucas argument (critique setup)"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: Birthday Cantatatata; Ch 15"
+          - title: "Lucas summary handout (1 page)"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Chalmers on Godel vs Mechanism/AI"
         topics:
-          - desc: ""
+          - desc: "Reply to Lucas; what Godel does/does not imply for AI"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "Chalmers: minds, machines, and mathematics (excerpt)"
+        videos: []
+        extra_resources: []
+
   - week_offset: 11
-    homework: []
+    homework:
+      - title: "Small 1# assignment (pre-class demo)"
+        due: M
+      - title: "UTM project (universal 1#) assigned"
+        out: W
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "Edifying Thoughts; Ch 16 Self-Ref & Self-Rep"
         topics:
-          - desc: ""
+          - desc: "Self-reference and self-reproduction; quines; replication"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: Edifying Thoughts of a Tobacco Smoker; Ch 16"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "1# / TRM; Chiang 'Seventy-Two Letters' (assign UTM)"
         topics:
-          - desc: ""
+          - desc: "1# model; live quine demo; names and descriptions; assign UTM project"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "Chiang: Seventy-Two Letters"
+          - title: "1# (TRM) quick reference"
+        videos: []
+        extra_resources: []
+
   - week_offset: 12
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "No class (Easter)"
+        topics: []
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "The Magnificrab, Indeed; Ch 17 Church–Turing–Tarski; Pullum"
         topics:
-          - desc: ""
+          - desc: "CT-thesis variants; Halting; Tarski; assign Pullum poem"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "GEB: The Magnificrab, Indeed; Ch 17"
+          - title: "Pullum: Scooping the Loop Snooper"
+        videos: []
+        extra_resources: []
+
   - week_offset: 13
-    homework: []
+    homework:
+      - title: "Medium 1# assignment (due; brief in-class explanations)"
+        due: M
+      - title: "UTM demo (graded)"
+        due: W
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "SHRDLU; Ch 18 AI Retrospects"
         topics:
-          - desc: ""
+          - desc: "Turing Test; early AI; NLP in blocks world"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: SHRDLU; Ch 18"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Rapaport PoCS I (CT-thesis; what an algorithm amounts to)"
         topics:
-          - desc: ""
+          - desc: "Philosophy of CS: effective procedures; programs vs specifications"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "Rapaport PoCS: CT-thesis notes"
+        videos: []
+        extra_resources: []
+
   - week_offset: 14
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "Contrafactus; Ch 19 AI Prospects"
         topics:
-          - desc: ""
+          - desc: "Knowledge representation; frames; concept interaction"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: Contrafactus; Ch 19"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Rapaport PoCS II (spec vs implementation; verification snapshot)"
         topics:
-          - desc: ""
+          - desc: "Specs, implementations, and informal verification"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "Rapaport PoCS: spec vs implementation notes"
+        videos: []
+        extra_resources: []
+
   - week_offset: 15
     homework: []
     sessions:
-      - day: M  # Monday
-        title: ""
+      - day: M
+        title: "Sloth Canon; Ch 20 Strange Loops"
         topics:
-          - desc: ""
+          - desc: "Tangled hierarchies; free will questions"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-           - title: ""
-             link: ""
-      - day: W  # Wednesday
-        title: ""
+          - title: "GEB: Sloth Canon; Ch 20"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Aaronson 'Who Can Name the Bigger Number?' + Busy Beaver"
         topics:
-          - desc: ""
+          - desc: "Naming power; Busy Beaver after Halting; growth beyond computable"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "Aaronson: Who Can Name the Bigger Number?"
+        videos: []
+        extra_resources: []
+
+  - week_offset: 16
+    homework: []
+    sessions:
+      - day: M
+        title: "Six-Part Ricercar (closing dialogue)"
+        topics:
+          - desc: "Capstone seminar; synthesis; optional final TRM check-offs"
+        pre_readings:
+          - title: "GEB: Six-Part Ricercar"
+        videos: []
+        extra_resources: []
