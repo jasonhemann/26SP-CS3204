@@ -1,0 +1,78 @@
+---
+title: Discussion Leader
+layout: single
+---
+
+Each student serves once as discussion leader. This role is worth 8
+percent of the final grade because it carries real responsibility for
+the quality and depth of the seminar on that day.
+
+The discussion leader is not a presenter and not a lecturer. The role
+is to ensure that the class spends sustained, careful time unpacking
+the assigned material.
+
+
+## Responsibilities
+
+On your assigned day, you are responsible for:
+
+1. **Keeping the discussion moving.**
+   If discussion stalls or goes superficial, it is your job to pose
+   further questions, redirect attention to the text, or press for
+   clarification.
+
+2. **Anchoring discussion in the text.**
+   You should be prepared to point to specific definitions, examples,
+   or arguments in the reading and bring the class back to them.
+
+3. **Sustaining depth.**
+   Rushing through material, skipping difficult points, or settling
+   for vague agreement counts against successful leadership.
+
+4. **Engaging the room.**
+   You are expected to call on multiple classmates and involve them in
+   the discussion. Dead air is your responsibility to address.
+
+5. **Synthesis.**
+   At least twice during the class, you should summarize where the
+   discussion stands and what has been established so far.
+
+
+## What Leadership Is Not
+
+- It is not giving a talk.
+- It is not reading prepared notes.
+- It is not answering every question yourself.
+- It is not deferring responsibility for discussion quality to the
+  instructor.
+
+
+## Evaluation
+
+The discussion leader role is assessed Great, Good, Okay, Poor.
+
+You will pass if the class spends sustained time on the central ideas
+of the reading, with visible engagement and technical detail.
+
+You may fail if discussion is shallow, rushed, unfocused, or repeatedly
+stalls without recovery.
+
+Instructor intervention does not count against you, but repeated
+intervention to supply questions or restart discussion does.
+
+
+## Preparation
+
+You should come prepared with:
+- several questions that press on technical or conceptual difficulty,
+- several concrete examples or constructions from the text,
+- a sense of what this reading sets up rather than resolves, and how it fits into a larger argumentative arc.
+
+There is no fixed script. You are expected to exercise judgment.
+
+
+## Why This Matters
+
+A seminar only works if someone is responsible for its momentum.
+Learning to sustain serious technical discussion is part of the course
+and is evaluated accordingly.
