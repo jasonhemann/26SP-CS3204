@@ -30,35 +30,31 @@ some out of class exercises.
 
 ## Required Textbooks
 
-- Douglas Hofstadter, Gödel, Escher, Bach: An Eternal Golden Braid (any edition).
+- Douglas Hofstadter, "Gödel, Escher, Bach: An Eternal Golden Braid" (any edition).
 
-- Ernest Nagel & James Newman, Gödel's Proof (revised ed., NYU Press).
+- Ernest Nagel & James Newman, "Gödel's Proof" (revised ed., NYU Press).
 
 ---
 
-## Course Outcomes (high-level, not a table of contents)
+## Course Outcomes
 
 By the end of the course you will be able to:
 
-1. Use precise language to reason *inside* and *about* formal systems.
-
-2. Present and lead discussion from a difficult text. Frame claims, surface objections, land a one-sentence takeaway; keep conversation grounded in the assigned chapter(s).
-
-3. Explain meta-programming and implement meta-programming.
-
-4. Explain Gödel's first incompleteness theorem in plain English.
-
-5. Articulate why halting is undecidable and why the busy beaver outruns every computable growth rate.
-
-6. Practice the habits a seminar like this demands: careful reading of technical prose; step-wise informal justification; and clear, short board explanations.
+   1. Use precise language to reason *inside* and *about* formal systems.
+   2. Present and lead discussion from a difficult text. Frame claims, surface objections, land a one-sentence takeaway; keep conversation grounded in the assigned chapter(s).
+   3. Explain meta-programming and implement meta-programming.
+   4. Explain Gödel's first incompleteness theorem in plain English.
+   5. Articulate why halting is undecidable and why the busy beaver outruns every computable growth rate.
+   6. Practice the habits a seminar like this demands: careful reading of technical prose; step-wise informal justification; and clear, short board explanations.
 
 ---
 
 ## Format
 
-- Seminar, not lecture. First ~8 minutes: reading quiz; the rest: discussion and short technique blocks.
-- Speaking expectations. This is a discussion course. You're expected to participate almost daily (questions, claims tied to text, challenges). I will cold-call as I feel warranted. If your participation is low over two consecutive meetings, expect a check-in.
-- Minimal coding. Expect live grading of individual explanations.
+- Seminar, not lecture. First ~8 minutes: reading quiz; the rest is discussion and short technique blocks.
+- This is a discussion course. You're expected to participate almost daily (questions, claims tied to text, challenges). I will cold-call as I feel warranted. If your participation is low over two consecutive meetings, expect a check-in.
+- Minimal coding, with live grading of individual explanations.
+- Check-offs are live and individual. Group coding is fine; the explanation is solo.
 
 ---
 
@@ -76,7 +72,6 @@ By the end of the course you will be able to:
   - Week 9 on fixed-points or recursion-theorem
 
 - 1# Micro-Check-offs --- 5 pts
-  - Check-offs are live and individual. Group coding is fine; the explanation is solo.
 
   Show `self` plus one variant (`self#`, `#self`, or `self2`); 90-second explanation.
 
@@ -91,8 +86,9 @@ Late/make-ups. In-room work has windows, no extensions. For cause, you'll be off
 
 ## Reading Quizzes (mechanics)
 
-- 6-8 minutes at the start; closed book; short answers only.
-- Confidence marking (H/M/L) begins Week 2 (see scoring above).
+- Closed book; short answers only; 6–8 minutes.
+- Confidence box per item starts Week 2
+- Drop 3 quizzes automatically. Your quiz grade is the percentage over the reduced denominator times 40.
 
 ---
 
