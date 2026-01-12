@@ -7,10 +7,11 @@ toc_label: "Syllabus Contents"
 
 This syllabus contains policies and expectations I have established
 for {{ site.title }}. Please read carefully the entire syllabus before
-continuing in this course. Policies and expectations as set forth in this syllabus
-may be modified at any time by the course instructor. Notice of such
-changes will be made by announcement in class, by written or email
-notice, or by changes to this syllabus posted on the course website.
+continuing in this course. Policies and expectations as set forth in
+this syllabus may be modified at any time by the course instructor.
+Notice of such changes will be made by announcement in class, by written
+or email notice, or by changes to this syllabus posted on the course
+website.
 
 
 ## Overview
@@ -22,17 +23,26 @@ what finite beings can do and know.
 
 This course is a book-club style seminar on Gödel, Escher, Bach (GEB).
 Nearly all assessment happens in the room: brief reading quizzes,
-discussion leadership, and extensive participation. There will however
-be some light programming exercises, demonstrations, short vivas, and
-some out of class exercises.
+discussion leadership, live demonstrations, and oral explanations.
+There will be some light programming exercises and short vivas; these
+exist to verify understanding and are not designed as take-home work.
+
+This course assumes careful reading, comfort with symbolic reasoning,
+and willingness to explain ideas aloud at a board. Students who are not
+prepared for sustained reading or live explanation should expect to
+struggle and are strongly encouraged to assess their fit early.
+
 
 ---
 
 ## Required Textbooks
 
-- Douglas Hofstadter, "Gödel, Escher, Bach: An Eternal Golden Braid" (any edition).
+- Douglas Hofstadter, "Gödel, Escher, Bach: An Eternal Golden Braid"
+  (any edition).
 
-- Ernest Nagel & James Newman, "Gödel's Proof" (revised ed., NYU Press).
+- Ernest Nagel and James Newman, "Gödel's Proof"
+  (revised ed., NYU Press).
+
 
 ---
 
@@ -40,101 +50,162 @@ some out of class exercises.
 
 By the end of the course you will be able to:
 
-   1. Use precise language to reason *inside* and *about* formal systems.
-   2. Present and lead discussion from a difficult text. Frame claims, surface objections, land a one-sentence takeaway; keep conversation grounded in the assigned chapter(s).
-   3. Explain meta-programming and implement meta-programming.
-   4. Explain Gödel's first incompleteness theorem in plain English.
-   5. Articulate why halting is undecidable and why the busy beaver outruns every computable growth rate.
-   6. Practice the habits a seminar like this demands: careful reading of technical prose; step-wise informal justification; and clear, short board explanations.
+1. Use precise language to reason inside and about formal systems.
+2. Present and lead discussion from a difficult text: frame claims,
+   surface objections, and land a one-sentence takeaway grounded in the
+   assigned chapter(s).
+3. Explain and implement meta-programming ideas using simple formal
+   models.
+4. Explain Gödel's first incompleteness theorem in plain English,
+   including what it does and does not claim.
+5. Articulate why halting is undecidable and why the busy beaver
+   function outruns every computable growth rate.
+6. Practice core seminar habits: careful reading of technical prose,
+   step-wise informal justification, and clear, short board
+   explanations.
+
+The ability to explain ideas clearly and accurately in real time is a
+core learning objective, not an incidental skill.
+
 
 ---
 
 ## Format
 
-- Seminar, not lecture. First ~8 minutes: reading quiz; the rest is discussion and short technique blocks.
-- This is a discussion course. You're expected to participate almost daily (questions, claims tied to text, challenges). I will cold-call as I feel warranted. If your participation is low over two consecutive meetings, expect a check-in.
-- Minimal coding, with live grading of individual explanations.
-- Check-offs are live and individual. Group coding is fine; the explanation is solo.
+- Seminar, not lecture. First ~8 minutes: reading quiz; the remainder is
+  discussion and short technique blocks.
+- This is a discussion course. You are expected to participate nearly
+  every meeting with text-tied questions, claims, or challenges.
+  Cold-calling is used to ensure shared responsibility for discussion.
+  If participation is low over two consecutive meetings, expect a
+  check-in.
+- Minimal coding, with understanding verified through live explanation.
+- Check-offs are live and individual. Group work is permitted during
+  preparation; explanations are solo.
+
 
 ---
 
-## Evaluation & Grading
+## Evaluation and Grading
 
 - Reading Quizzes --- 40%
 
-- Participation & Leadership --- 25%
-  - Seminar participation (15): regular, text-tied contributions (tracked).
+- Participation and Leadership --- 25%
+  - Seminar participation (15): regular, text-tied contributions,
+    tracked across the term.
   - Discussion leader (8): once.
   - Professionalism (2): prepared, on time, no disruptions.
 
-- Office-Hour Orals --- 20 pts (two vivas, 10+10; pass/redo)
-  - Weeks 4-5 on formal systems, invariants, and enumerability
-  - Week 9 on fixed-points or recursion-theorem
+- Office-Hour Orals --- 20 pts (two vivas, 10 + 10; pass/redo)
+  - Weeks 4-5: formal systems, invariants, and enumerability
+  - Week 9: fixed points or the recursion theorem
 
 - 1# Micro-Check-offs --- 5 pts
 
-  Show `self` plus one variant (`self#`, `#self`, or `self2`); 90-second explanation.
+  Show `self` plus one variant (`self#`, `#self`, or `self2`) with a
+  90-second explanation.
 
 - Universal 1# Demo --- 10 pts (pairs; in-room)
-  Two-week build once assigned; live run of `U(P,X)` on: (1) trivial P; (2) `write`; (3) a quine. Answer two "why" questions.
 
-**Non-negotiable: You must pass Day-1 Logic Diagnostic, Oral A, and Oral B to pass the course, regardless of points.**
+  Two-week build once assigned. Live run of `U(P,X)` on:
+  (1) a trivial P,
+  (2) `write`,
+  (3) a quine.
+  Answer two short "why" questions.
 
-Late/make-ups. In-room work has windows, no extensions. For cause, you'll be offered the next available window, or take the opportunity to organize a swap with another student.
+**Non-negotiable mastery requirements:**
+You must pass the Day-1 Logic Diagnostic, Oral A, and Oral B to pass the
+course, regardless of accumulated points. These assessments verify
+baseline preparation and core understanding.
+
+Late and make-up work:
+In-room work has fixed windows and no extensions. For cause, you will be
+offered the next available window or may arrange a swap with another
+student.
+
 
 ---
 
-## Reading Quizzes (mechanics)
+## Reading Quizzes (Mechanics)
 
-- Closed book; short answers only; 6–8 minutes.
-- Confidence box per item starts Week 2
-- Drop 3 quizzes automatically. Your quiz grade is the percentage over the reduced denominator times 40.
+- Closed book; short answers only; 6 to 8 minutes.
+- Confidence box per item begins Week 2.
+- Three quizzes are dropped automatically. Your quiz grade is the
+  percentage over the reduced denominator times 40.
+
 
 ---
 
-## Office-Hour Orals (details)
+## Office-Hour Orals (Details)
 
-Format (both orals): 8-10 minutes; no notes; board welcome. You state
-the claim, give the mechanism (invariant / mapping / fixed-point), and
-answer follow-ups. Scored pass/redo on: core correctness, mechanism
-clarity, precision of language, Q&A. One redo window per oral.
+Format (both orals): 8 to 10 minutes; no notes; board welcome.
+
+To pass an oral, you must:
+- State the claim correctly.
+- Identify the mechanism (e.g., invariant, mapping, fixed point).
+- Give one concrete example or instantiation.
+- Answer follow-up questions demonstrating understanding.
+
+Orals are scored pass/redo on:
+core correctness, clarity of mechanism, precision of language, and Q&A.
+Each oral has one redo window.
+
 
 ---
 
 ## TRM / 1# Project
 
-We'll follow a series of lessons about the one-hash (1#) language:
+We will follow a short sequence of lessons on the one-hash (1#) language:
 
- 1. Basics
- 2. Programs-for-Programs (`write`, `s1^1`)
- 3. Self-replication (`diag`, `self`)
- 4. Universal 1#.
+1. Basics
+2. Programs-for-programs (`write`, `s1^1`)
+3. Self-replication (`diag`, `self`)
+4. Universal 1#.
 
-Exact spec/encoding + meta-language generator will be posted with the assignment. Live check-offs only.
+1# is used as a minimal, explicit model of computation to make
+meta-programming, self-reference, and universality concrete.
+
+Exact spec, encoding, and a meta-language generator will be posted with
+the assignment. All assessment is via live check-offs to verify
+individual understanding.
+
 
 ---
 
 ## Policies
 
-- Academic integrity. Discuss readings freely; quizzes are individual. For 1#, collaboration on ideas is fine; you must be able to explain your own code live. Failure to explain = zero.
-- Use of AI tools. Allowed for prep/brainstorming. Disclose any AI assistance in one line on code/prompts. Understanding is verified in the room; no detectors.
-- Devices & recording. Laptops/tablets are forbidden in class, and phones away. Recording requires prior permission.
-- Attendance. This is a seminar; absence means lost participation and quiz. If you're ill or have accommodations, email before class.
+- Academic integrity:
+  Discussion of readings is encouraged; quizzes are individual.
+  For 1#, collaboration on ideas is allowed, but you must be able to
+  explain your own work live. Failure to explain equals no credit.
+
+- Use of AI tools:
+  Allowed for preparation and brainstorming. Any AI assistance must be
+  disclosed in one line on code or prompts. Understanding is verified in
+  the room; no detectors are used.
+
+- Devices and recording:
+  Laptops and tablets are not permitted in class; phones must be away.
+  Recording requires prior permission.
+
+- Attendance:
+  This is a seminar. Absence results in lost participation and quiz
+  credit. If you are ill or have accommodations, email before class.
+
 
 ---
 
 ## Participation
 
-I expect you to attend each lecture. Attendance is a prerequisite for
-participation, a substantial portion of your grade for this course. I
-expect students to attend every class and remain in class throughout
-the duration of the session. Your absence or tardiness will impact
-your ability to achieve course objectives which could hurt your course
-grade. An absence, excused or unexcused, does not relieve a student of
-any course requirement. Lecture content quizzes serve as proxies for
-participation and thus attendance, as well as to gauge students'
-understanding.
+Attendance is a prerequisite for participation, which constitutes a
+substantial portion of your grade. You are expected to attend each
+meeting and remain for the full session. Absence or tardiness impacts
+your ability to meet course objectives and may affect your grade.
+Lecture content quizzes serve as proxies for participation and
+attendance, as well as checks on reading comprehension.
 
+
+---
 
 ## Contact
 
@@ -143,14 +214,15 @@ messages is via my email address
 [{{ site.author.emailaddr }}]({{ site.author.email }}). You should expect a
 response within 48 hours.
 
-### Course evaluations
 
-I encourage students to take time and submit Course evaluations. Your
-time is busy at the end of the term when these are available. In order
-to fairly compensate you for that time without violating the integrity
-or anonymity of the system, if 85% or more of the enrolled students
-complete these Course evaluations, then I shall add a point onto the
-class-wide final average.
+### Course Evaluations
+
+If 85 percent or more of enrolled students complete course evaluations,
+one point will be added to the class-wide final average. This incentive
+does not compromise anonymity.
+
+
+---
 
 ## Academic Accommodations
 
@@ -167,29 +239,28 @@ semester. For more information or to register for services, contact
 DSS at (973) 313-6003 or by [e-mail](mailto:DSS@shu.edu), or visit
 their [webpage](https://www.shu.edu/disability-support-services/index.cfm).
 
+
+---
+
 ## Equity and Compliance
 
-One of our responsibilities in supporting student learning 360° is to
-help create a safe learning environment both in person and virtually.
-You should carefully consult the university's [relevant information
-and policies](https://www.shu.edu/title-ix/index.cfm), and if you have
-or experience any violations of the above I encourage you to take full
-advantage of the university resources.
+Seton Hall University is committed to maintaining a safe learning
+environment. Information about Title IX and related policies is
+available at:
+https://www.shu.edu/title-ix/index.cfm
 
-It is also important that you know that federal regulations and
-University policy require me to promptly convey any information about
-certain kinds of misconduct known to me to our Title IX Coordinator.
-In that event, they will work with a small number of others on campus
-to ensure that appropriate measures are taken and resources are made
-available to the student who may have been harmed. Protecting a
-student's privacy is of utmost concern, and all involved will only
-share information with those that need to know to ensure the
-University can respond and assist.
+Federal regulations and university policy require instructors to
+convey certain disclosures to the Title IX Coordinator when applicable.
+Information is shared only with those who need to know to provide
+support.
+
+
+---
 
 ## Acknowledgments
 
-Thanks over the years for inspiration and content from at least the
-following: Dan Friedman, Shriram Krishnamurthi, Lindsey Kuper, and
-Marco Morazán.
+Thanks over the years for inspiration and content from Dan Friedman,
+Shriram Krishnamurthi, Lindsey Kuper, and Marco Morazan.
 
-![In the syllabus]({{ site.baseurl }}/assets/images/syllabus.gif "Might just be worth checking.")
+![In the syllabus]({{ site.baseurl }}/assets/images/syllabus.gif
+"Might just be worth checking.")
