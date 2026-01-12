@@ -80,8 +80,7 @@ is a core learning objective.
   If participation is low over two consecutive meetings, expect a
   check-in.
 - Minimal coding, with understanding verified through live explanation.
-- Check-offs are live and individual. Group work is permitted during
-  preparation; explanations are solo.
+- Group work is permitted during preparation; explanations are solo.
 
 
 ---
@@ -91,39 +90,30 @@ is a core learning objective.
 - Reading Quizzes --- 40%
 
 - Participation and Leadership --- 25%
-  - Seminar participation (15): regular, text-tied contributions,
-    tracked across the term.
-  - Discussion leader (8): once.
-  - Professionalism (2): prepared, on time, no disruptions.
+  - 15% Seminar participation: regular, text-tied contributions, tracked across the term.
+  -  8% Discussion leader: once.
+  -  2% Professionalism: prepared, on time, no disruptions.
 
-- Office-Hour Orals --- 20 pts (two vivas, 10 + 10; pass/redo)
-  - Oral A (Weeks 4-5): formal systems, invariants, and enumerability
-  - Oral B (Week 9): fixed points, diagonalization, or the recursion
-    theorem
-
-- 1# Micro-Check-offs --- 5 pts
-
-  Show `self` plus one variant (`self#`, `#self`, or `self2`) with a
-  90-second explanation.
-
-- Universal 1# Demo --- 10 pts (pairs; in-room)
-
-  Two-week build once assigned. Live run of `U(P,X)` on:
-  (1) a trivial P,
-  (2) `write`,
-  (3) a quine.
-  Answer short follow-up questions probing understanding.
+- Office-Hour Orals --- 35%
+  - Conceptual Orals (20%):
+    - Oral A (Weeks 4-5): formal systems, invariants, and enumerability
+    - Oral B (Week 9): fixed points, diagonalization, or the recursion
+      theorem
+  - Programming Oral (15%):
+    -  5% Individual code walkthrough explaining your own 1# metaprograms
+    - 10% Individual code walkthrough explaining your own universal 1# interpreter.
 
 **Logic Diagnostic (prerequisite verification):**
-All students must sit a Day-1 symbolic logic diagnostic. Students who do
+All students must take a Day-1 symbolic logic diagnostic. Students who do
 not pass must retake it during office hours by the end of Week 1.
 Failure to pass by this deadline indicates insufficient prerequisite
 preparation and requires dropping the course.
 
 **Mastery requirement:**
-You must pass Oral A and Oral B to pass the course, regardless of point
-totals. These orals verify core understanding. Each oral includes a
-redo opportunity before a fixed deadline.
+You must pass Oral A, Oral B, and the Programming Orals to pass the
+course, regardless of accumulated percentage. Each oral includes a
+redo opportunity before a fixed deadline for those who tried and did
+not pass the first time.
 
 Late and make-up work:
 In-room work has fixed windows and no extensions. For cause, you will be
@@ -135,17 +125,17 @@ student.
 
 ## Reading Quizzes (Mechanics)
 
-- Closed book; short answers only; 6 to 8 minutes.
+- Closed book; short answers only; 8 to 10 minutes.
 - Confidence box per item begins Week 2.
 - Three quizzes are dropped automatically. Your quiz grade is the
-  percentage over the reduced denominator times 40.
+  percentage over the reduced denominator.
 
 
 ---
 
 ## Office-Hour Orals (Details)
 
-Format (both orals): 8 to 10 minutes; no notes; board welcome.
+Format: 8 to 10 minutes; no notes; board welcome.
 
 Orals function as live interrogation of your understanding. You may be
 asked to trace a concrete example, name an abstract mechanism, explain
@@ -157,8 +147,12 @@ To pass an oral, you must demonstrate:
 - ability to instantiate it concretely,
 - ability to answer follow-up questions.
 
-Orals are scored pass/redo on core correctness, clarity of mechanism,
-precision of language, and Q&A. Each oral has one redo window before a
+Programming orals take the form of a code walkthrough, where you explain
+your own 1# programs line by line and answer questions about their
+behavior and structure. These walkthroughs assess understanding, not
+programming style or cleverness.
+
+Orals are scored pass/redo. Each oral has one redo window before a
 fixed deadline.
 
 
@@ -175,11 +169,13 @@ language:
 4. Universal 1#.
 
 1# is used as a minimal, explicit model of computation to make
-meta-programming, self-reference, and universality concrete.
+meta-programming, self-reference, and universality concrete. Short 1#
+programming exercises will be submitted for completion credit to ensure
+regular practice; understanding is assessed through in-class quizzes
+and oral explanation.
 
 Exact spec, encoding, and a meta-language generator will be posted with
-the assignment. All assessment is via live check-offs to verify
-individual understanding.
+the assignment.
 
 
 ---
