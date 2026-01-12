@@ -24,13 +24,13 @@ what finite beings can do and know.
 This course is a book-club style seminar on Gödel, Escher, Bach (GEB).
 Nearly all assessment happens in the room: brief reading quizzes,
 discussion leadership, live demonstrations, and oral explanations.
-There will be some light programming exercises and short vivas; these
-exist to verify understanding and are not designed as take-home work.
+These assessments exist to verify understanding under questioning and
+cannot be replaced by take-home work.
 
-This course assumes careful reading, comfort with symbolic reasoning,
-and willingness to explain ideas aloud at a board. Students who are not
-prepared for sustained reading or live explanation should expect to
-struggle and are strongly encouraged to assess their fit early.
+This course assumes careful reading, baseline fluency with symbolic
+logic, and willingness to explain ideas aloud at a board. Students who
+are not prepared for sustained reading or live explanation should
+expect to struggle and are encouraged to assess their fit early.
 
 
 ---
@@ -64,8 +64,8 @@ By the end of the course you will be able to:
    step-wise informal justification, and clear, short board
    explanations.
 
-The ability to explain ideas clearly and accurately in real time is a
-core learning objective, not an incidental skill.
+The ability to explain ideas clearly and accurately under questioning
+is a core learning objective.
 
 
 ---
@@ -73,7 +73,7 @@ core learning objective, not an incidental skill.
 ## Format
 
 - Seminar, not lecture. First ~8 minutes: reading quiz; the remainder is
-  discussion and short technique blocks.
+  discussion and focused technical unpacking.
 - This is a discussion course. You are expected to participate nearly
   every meeting with text-tied questions, claims, or challenges.
   Cold-calling is used to ensure shared responsibility for discussion.
@@ -97,8 +97,9 @@ core learning objective, not an incidental skill.
   - Professionalism (2): prepared, on time, no disruptions.
 
 - Office-Hour Orals --- 20 pts (two vivas, 10 + 10; pass/redo)
-  - Weeks 4-5: formal systems, invariants, and enumerability
-  - Week 9: fixed points or the recursion theorem
+  - Oral A (Weeks 4-5): formal systems, invariants, and enumerability
+  - Oral B (Week 9): fixed points, diagonalization, or the recursion
+    theorem
 
 - 1# Micro-Check-offs --- 5 pts
 
@@ -111,12 +112,18 @@ core learning objective, not an incidental skill.
   (1) a trivial P,
   (2) `write`,
   (3) a quine.
-  Answer two short "why" questions.
+  Answer short follow-up questions probing understanding.
 
-**Non-negotiable mastery requirements:**
-You must pass the Day-1 Logic Diagnostic, Oral A, and Oral B to pass the
-course, regardless of accumulated points. These assessments verify
-baseline preparation and core understanding.
+**Logic Diagnostic (prerequisite verification):**
+All students must sit a Day-1 symbolic logic diagnostic. Students who do
+not pass must retake it during office hours by the end of Week 1.
+Failure to pass by this deadline indicates insufficient prerequisite
+preparation and requires dropping the course.
+
+**Mastery requirement:**
+You must pass Oral A and Oral B to pass the course, regardless of point
+totals. These orals verify core understanding. Each oral includes a
+redo opportunity before a fixed deadline.
 
 Late and make-up work:
 In-room work has fixed windows and no extensions. For cause, you will be
@@ -140,22 +147,27 @@ student.
 
 Format (both orals): 8 to 10 minutes; no notes; board welcome.
 
-To pass an oral, you must:
-- State the claim correctly.
-- Identify the mechanism (e.g., invariant, mapping, fixed point).
-- Give one concrete example or instantiation.
-- Answer follow-up questions demonstrating understanding.
+Orals function as live interrogation of your understanding. You may be
+asked to trace a concrete example, name an abstract mechanism, explain
+why it is necessary, or say what would break under a change.
 
-Orals are scored pass/redo on:
-core correctness, clarity of mechanism, precision of language, and Q&A.
-Each oral has one redo window.
+To pass an oral, you must demonstrate:
+- correct statement of the relevant claim,
+- command of the underlying mechanism,
+- ability to instantiate it concretely,
+- ability to answer follow-up questions.
+
+Orals are scored pass/redo on core correctness, clarity of mechanism,
+precision of language, and Q&A. Each oral has one redo window before a
+fixed deadline.
 
 
 ---
 
 ## TRM / 1# Project
 
-We will follow a short sequence of lessons on the one-hash (1#) language:
+We will follow a short sequence of lessons on the one-hash (1#)
+language:
 
 1. Basics
 2. Programs-for-programs (`write`, `s1^1`)
@@ -182,7 +194,7 @@ individual understanding.
 - Use of AI tools:
   Allowed for preparation and brainstorming. Any AI assistance must be
   disclosed in one line on code or prompts. Understanding is verified in
-  the room; no detectors are used.
+  the room.
 
 - Devices and recording:
   Laptops and tablets are not permitted in class; phones must be away.
@@ -218,8 +230,7 @@ response within 48 hours.
 ### Course Evaluations
 
 If 85 percent or more of enrolled students complete course evaluations,
-one point will be added to the class-wide final average. This incentive
-does not compromise anonymity.
+one point will be added to the class-wide final average.
 
 
 ---
