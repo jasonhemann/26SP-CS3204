@@ -11,6 +11,16 @@ The discussion leader is not a presenter and not a lecturer. The role
 is to ensure that the class spends sustained, careful time unpacking
 the assigned material.
 
+## Sign-up
+
+You will be able to sign up on
+[this](https://studentshu-my.sharepoint.com/:l:/r/personal/hemannja_shu_edu/Lists/Discussion%20Leader%20Signups?e=gPpd8p)
+Microsoft List. Find the date you would like to present, click in the
+cell under the 'Discussion Leader' column, and then click beneath the
+'Discussion Leader' heading in the pop-up. You should be able to enter
+your name or email address. If you've done this correctly the field
+will populate with your name and photo.
+
 
 ## Responsibilities
 
