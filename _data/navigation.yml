@@ -19,7 +19,11 @@ sidebar-site-map:
     url: https://gradescope.com
   - title: "Syllabus"
     url: /syllabus/
+  - title: "Discussion"
+    url: /discussion/
   - title: "Discussion Leader"
     url: /discussion-leader/
+  - title: "Notebook"
+    url: /notebook/
   - title: "How's My Driving?"
     url: /hows-my-driving/

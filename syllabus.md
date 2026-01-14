@@ -43,9 +43,6 @@ expect to struggle and are encouraged to assess their fit early.
 - Ernest Nagel and James Newman, "Gödel's Proof"
   (revised ed., NYU Press).
 
-
----
-
 ## Course Outcomes
 
 By the end of the course you will be able to:
@@ -121,6 +118,21 @@ offered the next available window or may arrange a swap with another
 student.
 
 
+
+---
+
+## Materials
+
+Bring to class each session:
+
+- Your copy of GEB (or whatever the text of the day is)
+
+- Your reading notebook
+
+We will be having a prepared, text-driven discussion; these are both
+essential to quality participation. You owe these to your fellow
+classmates to make good use of their time.
+
 ---
 
 ## Reading Quizzes (Mechanics)
@@ -129,7 +141,6 @@ student.
 - Confidence box per item begins Week 2.
 - Three quizzes are dropped automatically. Your quiz grade is the
   percentage over the reduced denominator.
-
 
 ---
 
@@ -155,8 +166,16 @@ programming style or cleverness.
 Orals are scored pass/redo. Each oral has one redo window before a
 fixed deadline.
 
+---
+
+## Notebook checks
+
+Bring your reading notebook to class each session. I will
+occasionally, at random, pick them up and grade them as outlined on
+the notebook page.
 
 ---
+
 
 ## TRM / 1# Project
 
