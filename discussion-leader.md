@@ -48,19 +48,7 @@ On your assigned day, you are responsible for:
    At least twice during the class, you should summarize where the
    discussion stands and what has been established so far.
 
-
-## What Leadership Is Not
-
-- It is not giving a talk.
-- It is not reading prepared notes.
-- It is not answering every question yourself.
-- It is not deferring responsibility for discussion quality to the
-  instructor.
-
-
 ## Evaluation
-
-The discussion leader role is assessed Great, Good, Okay, Poor.
 
 You will pass if the class spends sustained time on the central ideas
 of the reading, with visible engagement and technical detail.
@@ -71,6 +59,36 @@ stalls without recovery.
 Instructor intervention does not count against you, but repeated
 intervention to supply questions or restart discussion does.
 
+## Discussion Leader Rubric (/24)
+
+Score each criterion 0–4. Add specific evidence in the notes column.
+
+| Criterion (0–4 each)             | 0 = Missing                                          | 1 = Limited                          | 2 = Basic                                           | 3 = Proficient                                            | 4 = Excellent                                                                                |
+|----------------------------------|------------------------------------------------------|--------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Core Outcomes & Focus            | Core aims for today’s reading not surfaced.          | One aim mentioned, not developed.    | States aims but drifts; key pieces underemphasized. | Names the right aims and keeps most time on them.         | Clear, repeated focus; class leaves with the right "takeaways."                              |
+| Question Design & Sequencing     | Prompts are vague; discussion stalls or meanders.    | Some prompts land; order is random.  | Mixed: a few strong prompts; sequencing uneven.     | Prompts are specific, text-anchored; logical progression. | Questions build insight step-by-step; smooth pivots on student ideas.                        |
+| Time & Flow Management           | Major segments not reached; overruns without triage. | Late pivots; rushes end.             | Acceptable pacing; one segment thin.                | On time for all segments; clear transitions.              | On time plus “triage” skillfully used (drops a sidebar to hit essentials).                   |
+| Text Evidence & Boardcraft       | Rarely asks for page/line; no concrete examples.     | Occasional anchoring; board unclear. | Regularly anchors; one worked example attempted*.   | Consistent page/line anchoring; clean board example*.     | Anchors every claim; models concise boardwork* that clarifies the hard part.                 |
+| Distribution & Climate           | Same few voices; interruptions unaddressed.          | Some variety; uneven airtime.        | Most students heard; leader nudges politely.        | Broad participation; respectful climate maintained.       | Deliberate equity (on-deck rotation, roles); quiet students invited successfully.            |
+| Responsive Teaching (Adaptation) | Ignores confusion; presses on.                       | Notices but can’t course-correct.    | Short clarification or example given.               | Adapts with a quick mini-lesson/exercise that works.      | Turns confusion into a teachable moment without losing focus; quick check for understanding. |
+
+
+### Minute-Milestones (leader hits these or triages intentionally)
+- By ~10m in: Evoked clearly situated introduction, and offered accepted summarization
+- By ~35m in: Deep into the heart of the technical matter; at least one concrete example/demonstration, possibly boardwork, and onto a second
+- By ~50m in: At least into some second fragment of deep technical discussion (could well be further)
+- By ~60m in: Nearly concluded, synthesis w/2–3 bullet takeaways students can state in their own words.
+
+
+* The boardwork part may not always be relevant, but with formal systems and etc.
+
+## What Leadership Is Not
+
+- It is not giving a talk.
+- It is not reading prepared notes.
+- It is not answering every question yourself.
+- It is not deferring responsibility for discussion quality to the
+  instructor.
 
 ## Preparation
 
@@ -87,3 +105,5 @@ There is no fixed script. You are expected to exercise judgment.
 A seminar only works if someone is responsible for its momentum.
 Learning to sustain serious technical discussion is part of the course
 and is evaluated accordingly.
+
+
