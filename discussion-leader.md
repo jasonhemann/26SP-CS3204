@@ -74,14 +74,16 @@ Score each criterion 0–4. Add specific evidence in the notes column.
 | Responsive Teaching (Adaptation) | Ignores confusion; presses on.                       | Notices but can’t course-correct.    | Short clarification or example given.               | Adapts with a quick mini-lesson/exercise that works.      | Turns confusion into a teachable moment without losing focus; quick check for understanding. |
 ```
 
-### Minute-Milestones (leader hits these or triages intentionally)
-- By ~10m in: Evoked clearly situated introduction, and offered accepted summarization
-- By ~35m in: Deep into the heart of the technical matter; at least one concrete example/demonstration, possibly boardwork, and onto a second
-- By ~50m in: At least into some second fragment of deep technical discussion (could well be further)
-- By ~60m in: Nearly concluded, synthesis w/2–3 bullet takeaways students can state in their own words.
-
-
 * The boardwork part may not always be relevant, but with formal systems and etc.
+
+
+### Minute-Milestones (leader hits these or triages intentionally)
+
+By ~10m in: Evoked clearly situated introduction, and offered accepted summarization
+By ~35m in: Deep into the heart of the technical matter; at least one concrete example/demonstration, possibly boardwork, and onto a second
+By ~50m in: At least into some second fragment of deep technical discussion (could well be further)
+By ~60m in: Nearly concluded, synthesis w/2–3 bullet takeaways students can state in their own words.
+
 
 ## What Leadership Is Not
 
