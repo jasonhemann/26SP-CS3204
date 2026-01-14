@@ -61,14 +61,17 @@ I expect this should take you about 40m to 1hr on top of the reading itself.
 
 ---
 
-## Notebook grading
+## GEB Notebook — Holistic Rubric (/20)
 
-I will occasionally, at random, in class collect your reading notebooks, and assess them on a 0-3 scale.
+You will keep one notebook entry per meeting. I will do several
+surprise, holistic checks across all entries to date. Each check is
+scored on four dimensions, 0–5 points each.
 
-
-| Dimension                                         |              0 |            1 |           2 |                 3 |
-|---------------------------------------------------|---------------:|-------------:|------------:|------------------:|
-| Completeness (all 9 sections present)             |     missing ≥3 |    missing 2 |   missing 1 |       all present |
-| Specificity (page/line, rules, concrete examples) |           none |   occasional |    frequent |        consistent |
-| Accuracy (formal steps correct; quotes faithful)  |   major errors |  some errors | minor slips |           correct |
-| I/O Tagging & Clarity                             | none/illegible | inconsistent | mostly good | clear, consistent |
+```markdown
+| Dimension      | 0–2 Needs Work                                                           | 3 Adequate                               | 4 Strong                                                        | 5 Exceptional                                                                                 |
+|----------------|--------------------------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Coverage       | Several expected entries missing or very thin.                           | About half the expected entries present. | Most entries present; a few gaps only.                          | All expected entries present and substantial since last check.                                |
+| Specificity    | Few concrete details; almost no page/line cites or worked examples.      | Occasional cites/examples.               | Frequent page/line cites; examples are mostly concrete/correct. | Consistent, precise page/line cites; examples are crisp and illuminating (when applicable).   |
+| Accuracy       | Summaries mischaracterize points; formal steps (if any) often incorrect. | Some mistakes or over‑generalizations.   | Minor slips only; overall faithful to the text.                 | Faithful, careful paraphrase; formal steps (if any) are correct and clearly laid out.         |
+| Thoughtfulness | Questions are superficial or duplicative; 10‑word summary unclear.       | Mixed depth; some questions interesting. | Good questions; clear 10‑word summary; occasional connections.  | Insightful, text‑anchored questions; sharp 10‑word summary; meaningful connections or limits. |
+```
