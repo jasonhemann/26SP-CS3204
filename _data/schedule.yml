@@ -9,8 +9,9 @@ dst_end_week: 44
 weeks:
   - week_offset: 0
     homework:
-      - title: "Chapter leader sign-up"
+      - title: "Discussion leader sign-up"
         out: W
+        starter_code: "discussion-leader-sign-up"
     sessions:
       - day: W
         title: "Intro; Three-Part Invention; Ch 1 MU-Puzzle"
