@@ -63,6 +63,7 @@ intervention to supply questions or restart discussion does.
 
 Score each criterion 0–4. Add specific evidence in the notes column.
 
+```markdown
 | Criterion (0–4 each)             | 0 = Missing                                          | 1 = Limited                          | 2 = Basic                                           | 3 = Proficient                                            | 4 = Excellent                                                                                |
 |----------------------------------|------------------------------------------------------|--------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Core Outcomes & Focus            | Core aims for today’s reading not surfaced.          | One aim mentioned, not developed.    | States aims but drifts; key pieces underemphasized. | Names the right aims and keeps most time on them.         | Clear, repeated focus; class leaves with the right "takeaways."                              |
@@ -71,7 +72,7 @@ Score each criterion 0–4. Add specific evidence in the notes column.
 | Text Evidence & Boardcraft       | Rarely asks for page/line; no concrete examples.     | Occasional anchoring; board unclear. | Regularly anchors; one worked example attempted*.   | Consistent page/line anchoring; clean board example*.     | Anchors every claim; models concise boardwork* that clarifies the hard part.                 |
 | Distribution & Climate           | Same few voices; interruptions unaddressed.          | Some variety; uneven airtime.        | Most students heard; leader nudges politely.        | Broad participation; respectful climate maintained.       | Deliberate equity (on-deck rotation, roles); quiet students invited successfully.            |
 | Responsive Teaching (Adaptation) | Ignores confusion; presses on.                       | Notices but can’t course-correct.    | Short clarification or example given.               | Adapts with a quick mini-lesson/exercise that works.      | Turns confusion into a teachable moment without losing focus; quick check for understanding. |
-
+```
 
 ### Minute-Milestones (leader hits these or triages intentionally)
 - By ~10m in: Evoked clearly situated introduction, and offered accepted summarization
