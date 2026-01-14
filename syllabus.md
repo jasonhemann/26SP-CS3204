@@ -84,9 +84,11 @@ is a core learning objective.
 
 ## Evaluation and Grading
 
-- Reading Quizzes --- 40%
+- Notebook Evaluation --- 10%
 
-- Participation and Leadership --- 25%
+- Reading Quizzes --- 35%
+
+- Participation and Leadership --- 20%
   - 15% Seminar participation: regular, text-tied contributions, tracked across the term.
   -  8% Discussion leader: once.
   -  2% Professionalism: prepared, on time, no disruptions.
