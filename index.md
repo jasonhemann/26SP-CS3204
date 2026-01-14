@@ -8,11 +8,15 @@ sidebar:
   nav: sidebar-site-map
 ---
 
-> "Begin at the beginning," the King said, very gravely, "and go on till you come to the end: then stop."
-> ― Lewis Carroll, Alice in Wonderland
+> Kurt Gödel was the first person to realize and exploit the fact that the positive integers, though they might superficially seem to be very austere and isolated, in fact constitute a profoundly rich representational medium. They can mimic or mirror any kind of pattern.
+> ― Douglas R. Hofstadter, "I Am a Strange Loop"
 
 
 ## Lecture
 
+
+ | Lecture  | Instructor | Dates | Time        | Location |
+ |----------|------------|-------|-------------|----------|
+ | CSAS3204 | Jason      | M, W  | 14:00-15:15 | SC 106   |
 
 
