@@ -65,13 +65,15 @@ The discussion leader is evaluated along the following axes. Each axis
 is scored independently from 0 to 4. The total rubric score is the sum
 across axes.
 
-1. Core Outcomes and Focus
-2. Question Design and Sequencing
-3. Time and Flow Management
-4. Text Evidence and Boardwork
-5. Distribution and Climate
-6. Responsive Teaching (Adaptation)
+1. [Core Outcomes and Focus](#core-outcomes-and-focus)
+2. [Question Design and Sequencing](#question-design-and-sequencing)
+3. [Time and Flow Management](#time-and-flow-management)
+4. [Text Evidence and Boardcraft](#text-evidence-and-boardcraft)
+5. [Distribution and Climate](#distribution-and-climate)
+6. [Responsive Teaching (Adaptation)](#responsive-teaching-adaptation)
 
+These axes assess how the discussion was led, not whether classmates
+were fully prepared or gave strong answers.
 
 ### Axis Descriptors (0-4 scale)
 
