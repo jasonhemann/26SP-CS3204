@@ -50,31 +50,72 @@ On your assigned day, you are responsible for:
 
 ## Evaluation
 
-You will pass if the class spends sustained time on the central ideas
-of the reading, with visible engagement and technical detail.
-
-You may fail if discussion is shallow, rushed, unfocused, or repeatedly
-stalls without recovery.
+These axes assess how the discussion was led, not whether classmates
+were fully prepared or gave strong answers. You will pass if the class
+spends sustained time on the central ideas of the reading, with
+visible engagement and technical detail. You may fail if discussion is
+shallow, rushed, unfocused, or repeatedly stalls without recovery.
 
 Instructor intervention does not count against you, but repeated
 intervention to supply questions or restart discussion does.
 
-## Discussion Leader Rubric (/24)
+### Rubric Axes (each scored 0-4)
 
-Score each criterion 0–4. Add specific evidence in the notes column.
+The discussion leader is evaluated along the following axes. Each axis
+is scored independently from 0 to 4. The total rubric score is the sum
+across axes.
 
-```markdown
-| Criterion (0–4 each)             | 0 = Missing                                          | 1 = Limited                          | 2 = Basic                                           | 3 = Proficient                                            | 4 = Excellent                                                                                |
-|----------------------------------|------------------------------------------------------|--------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Core Outcomes & Focus            | Core aims for today’s reading not surfaced.          | One aim mentioned, not developed.    | States aims but drifts; key pieces underemphasized. | Names the right aims and keeps most time on them.         | Clear, repeated focus; class leaves with the right "takeaways."                              |
-| Question Design & Sequencing     | Prompts are vague; discussion stalls or meanders.    | Some prompts land; order is random.  | Mixed: a few strong prompts; sequencing uneven.     | Prompts are specific, text-anchored; logical progression. | Questions build insight step-by-step; smooth pivots on student ideas.                        |
-| Time & Flow Management           | Major segments not reached; overruns without triage. | Late pivots; rushes end.             | Acceptable pacing; one segment thin.                | On time for all segments; clear transitions.              | On time plus “triage” skillfully used (drops a sidebar to hit essentials).                   |
-| Text Evidence & Boardcraft       | Rarely asks for page/line; no concrete examples.     | Occasional anchoring; board unclear. | Regularly anchors; one worked example attempted*.   | Consistent page/line anchoring; clean board example*.     | Anchors every claim; models concise boardwork* that clarifies the hard part.                 |
-| Distribution & Climate           | Same few voices; interruptions unaddressed.          | Some variety; uneven airtime.        | Most students heard; leader nudges politely.        | Broad participation; respectful climate maintained.       | Deliberate equity (on-deck rotation, roles); quiet students invited successfully.            |
-| Responsive Teaching (Adaptation) | Ignores confusion; presses on.                       | Notices but can’t course-correct.    | Short clarification or example given.               | Adapts with a quick mini-lesson/exercise that works.      | Turns confusion into a teachable moment without losing focus; quick check for understanding. |
-```
+1. Core Outcomes and Focus
+2. Question Design and Sequencing
+3. Time and Flow Management
+4. Text Evidence and Boardwork
+5. Distribution and Climate
+6. Responsive Teaching (Adaptation)
 
-* The boardwork part may not always be relevant, but with formal systems and etc.
+
+### Axis Descriptors (0-4 scale)
+
+#### Core Outcomes and Focus
+   0. Core aims for the reading are not surfaced.
+   1. One aim is mentioned, but undeveloped or vague.
+   2. Major aims are stated, but discussion drifts or key aspects are underemphasized.
+   3. Major aims (more than one possible) are surfaced and most discussion time stays on them.
+   4. Clear, repeated focus; class leaves with major takeaways that can be stated in their own words.
+
+#### Question Design and Sequencing
+   0. Prompts are vague or absent; discussion stalls or meanders.
+   1. Some prompts land, but sequencing is random or reactive.
+   2. A few strong prompts appear; sequencing is uneven.
+   3. Prompts are specific and text-anchored; questions progress logically and keep discussion moving, even when a student struggles.
+   4. Questions build insight step by step; leader pivots smoothly on student contributions and uses brief recap or low-stakes prompts to maintain momentum.
+
+#### Time and Flow Management
+   0. Major segments are not reached; time is mismanaged.
+   1. Late pivots; end is rushed or incomplete.
+   2. Acceptable pacing, but one major segment is thin or compressed.
+   3. All major segments are reached; transitions are clear.
+   4. Time is managed deliberately; secondary threads are explicitly deferred to maintain focus on essentials.
+
+#### Text Evidence and Boardcraft
+   0. Discussion is untethered from the text; no concrete examples.
+   1. Occasional reference to the text; examples or boardwork are unclear.
+   2. Regular textual anchoring; at least one concrete example or construction attempted.
+   3. Consistent page or line anchoring; clear example or boardwork when appropriate.
+   4. Every major claim is anchored; concise boardwork or examples clarify the hardest point.
+
+#### Distribution and Climate
+   0. Same few voices dominate; interruptions or dead air go unaddressed.
+   1. Some variety of voices, but airtime is uneven.
+   2. Most students are heard; leader nudges politely.
+   3. Broad participation; respectful climate; quiet students are invited using short prompts or recap questions; discussion continues when someone flounders.
+   4. Deliberate equity; wide variety of voices over time; leader redirects or reframes smoothly when a student is unprepared, without loss of momentum.
+
+#### Responsive Teaching (Adaptation)
+   0. Confusion is ignored; leader presses on regardless.
+   1. Confusion is noticed but not resolved.
+   2. A brief clarification or example is offered.
+   3. Leader adapts with a short explanation, example, or reframing that works.
+   4. Confusion becomes a teachable moment; leader checks understanding and reorients discussion without losing focus.
 
 
 ### Minute-Milestones (leader hits these or triages intentionally)
@@ -82,7 +123,7 @@ Score each criterion 0–4. Add specific evidence in the notes column.
 By ~10m in: Evoked clearly situated introduction, and offered accepted summarization
 By ~35m in: Deep into the heart of the technical matter; at least one concrete example/demonstration, possibly boardwork, and onto a second
 By ~50m in: At least into some second fragment of deep technical discussion (could well be further)
-By ~60m in: Nearly concluded, synthesis w/2–3 bullet takeaways students can state in their own words.
+By ~60m in: Nearly concluded, synthesis w/2-3 bullet takeaways students can state in their own words.
 
 
 ## What Leadership Is Not
