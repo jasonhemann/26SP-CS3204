@@ -4,6 +4,15 @@ layout: single
 toc: true
 toc_label: "Syllabus Contents"
 toc-depth: 2
+to: pdf
+standalone: true          # ensures a complete LaTeX document is created
+documentclass: scrartcl
+fontsize: 11pt
+geometry:
+  - margin=1in
+linestretch: 1.15
+mainfont: TeX Gyre Pagella
+colorlinks: true
 ---
 
 This syllabus contains policies and expectations I have established
