@@ -1,8 +1,9 @@
 ---
-title: Syllabus
+title: CSAS3204 Syllabus
 layout: single
 toc: true
 toc_label: "Syllabus Contents"
+toc-depth: 2
 ---
 
 This syllabus contains policies and expectations I have established
