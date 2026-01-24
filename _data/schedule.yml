@@ -52,7 +52,9 @@ weeks:
         pre_readings:
           - title: "GEB: Sonata for Unaccompanied Achilles; Ch 3"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Visual Proof of the Pythagorean Theorem (1:17-2:02)"
+            link: "https://www.youtube.com/watch?v=QJYmyhnaaek&t=77s"
       - day: W
         title: "Contracrostipunctus; Ch 4 Consistency/Completeness/Geometry"
         topics:
