@@ -42,8 +42,9 @@ weeks:
 
   - week_offset: 2
     homework:
-      - title: "Office-hours explanation sign-up (pq or MU invariant)"
+      - title: "Formal systems office viva (MU, pq, tq, or DND)"
         out: M
+        starter_code: "formal-systems-viva-1"
     sessions:
       - day: M
         title: "Sonata (Unaccompanied); Ch 3 Figure & Ground"
@@ -62,8 +63,9 @@ weeks:
         pre_readings:
           - title: "GEB: Contracrostipunctus; Ch 4"
         videos: []
-        extra_resources: []
-
+        extra_resources:
+          - title: "Political Acrostic Obscenity"
+            link: "https://nypost.com/2009/10/28/schwarzenegger-drops-f-bomb-in-veto-message-to-lawmaker/"
   - week_offset: 3
     homework: []
     sessions:

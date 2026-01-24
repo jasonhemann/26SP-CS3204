@@ -19,6 +19,8 @@ sidebar-site-map:
     url: https://gradescope.com
   - title: "Syllabus"
     url: /syllabus/
+  - title: "Viva"
+    url: /viva/
   - title: "Discussion"
     url: /discussion/
   - title: "Discussion Leader"

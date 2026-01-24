@@ -103,11 +103,10 @@ is a core learning objective.
   -  8% Discussion leader: once.
   -  2% Professionalism: prepared, on time, no disruptions.
 
-- Office-Hour Orals --- 35%
+- Office Vivas (Oral Exams) --- 35%
   - Conceptual Orals (20%):
-    - Oral A (Weeks 4-5): formal systems, invariants, and enumerability
-    - Oral B (Week 9): fixed points, diagonalization, or the recursion
-      theorem
+    - Oral A (~Weeks 4-5): formal systems, invariants, and enumerability
+    - Oral B (~Week 9): fixed points, diagonalization, or the recursion theorem
   - Programming Oral (15%):
     -  5% Individual code walkthrough explaining your own 1# metaprograms
     - 10% Individual code walkthrough explaining your own universal 1# interpreter.
@@ -156,7 +155,7 @@ classmates to make good use of their time.
 
 ---
 
-## Office-Hour Orals (Details)
+## Office Vivae (Oral Exams) (Details)
 
 Format: 8 to 10 minutes; no notes; board welcome.
 
