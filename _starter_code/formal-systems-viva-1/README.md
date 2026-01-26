@@ -9,7 +9,8 @@ procedure". You must know the alphabets, axioms, and rules for `MIU`,
 `pq`, `tq`, and `DND`.
 
 ## Booking
-- Book a 10 minute slot this week or next
+- Book a 10 minute slot between **2026-01-27** and **2026-02-04**
+  (Note I will be out of town and unavailable after the 4th). 
 - Use this link: https://calendar.app.google/3166Pn3ALoct8XKA8
 - If none of the posted times work, email alternatives early
 
