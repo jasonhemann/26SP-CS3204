@@ -1,0 +1,54 @@
+axes:
+  - id: core-outcomes-and-focus
+    title: Core Outcomes and Focus
+    levels:
+      - "Core aims for the reading are not surfaced."
+      - "One aim is mentioned, but undeveloped or vague."
+      - "Major aims are stated, but discussion drifts or key aspects are underemphasized."
+      - "Major aims (more than one possible) are surfaced and most discussion time stays on them."
+      - "Clear, repeated focus; class leaves with major takeaways that can be stated in their own words."
+
+  - id: question-design-and-sequencing
+    title: Question Design and Sequencing
+    levels:
+      - "Prompts are vague or absent; discussion stalls or meanders."
+      - "Some prompts land, but sequencing is random or reactive."
+      - "A few strong prompts appear; sequencing is uneven."
+      - "Prompts are specific and text-anchored; questions progress logically and keep discussion moving, even when a student struggles."
+      - "Questions build insight step by step; leader pivots smoothly on student contributions and uses brief recap or low-stakes prompts to maintain momentum."
+
+  - id: time-and-flow-management
+    title: Time and Flow Management
+    levels:
+      - "Major segments are not reached; time is mismanaged."
+      - "Late pivots; end is rushed or incomplete."
+      - "Acceptable pacing, but one major segment is thin or compressed."
+      - "All major segments are reached; transitions are clear."
+      - "Time is managed deliberately; secondary threads are explicitly deferred to maintain focus on essentials."
+
+  - id: text-evidence-and-boardcraft
+    title: Text Evidence and Boardcraft
+    levels:
+      - "Discussion is untethered from the text; no concrete examples."
+      - "Occasional reference to the text; examples or boardwork are unclear."
+      - "Regular textual anchoring; at least one concrete example or construction attempted."
+      - "Consistent page or line anchoring; clear example or boardwork when appropriate."
+      - "Every major claim is anchored; concise boardwork or examples clarify the hardest point."
+
+  - id: distribution-and-climate
+    title: Distribution and Climate
+    levels:
+      - "Same few voices dominate; interruptions or dead air go unaddressed."
+      - "Some variety of voices, but airtime is uneven."
+      - "Most students are heard; leader nudges politely."
+      - "Broad participation; respectful climate; quiet students are invited using short prompts or recap questions; discussion continues when someone flounders."
+      - "Deliberate equity; wide variety of voices over time; leader redirects or reframes smoothly when a student is unprepared, without loss of momentum."
+
+  - id: responsive-teaching-adaptation
+    title: Responsive Teaching (Adaptation)
+    levels:
+      - "Confusion is ignored; leader presses on regardless."
+      - "Confusion is noticed but not resolved."
+      - "A brief clarification or example is offered."
+      - "Leader adapts with a short explanation, example, or reframing that works."
+      - "Confusion becomes a teachable moment; leader checks understanding and reorients discussion without losing focus."

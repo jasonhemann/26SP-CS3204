@@ -100,7 +100,7 @@ is a core learning objective.
 
 - Participation and Leadership --- 20%
   - 15% Seminar participation: regular, text-tied contributions, tracked across the term.
-  -  8% Discussion leader: once.
+  -  8% Discussion leader: ~~once~~ twice.
   -  2% Professionalism: prepared, on time, no disruptions.
 
 - Office Vivas (Oral Exams) --- 35%

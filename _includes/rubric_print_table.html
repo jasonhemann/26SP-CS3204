@@ -1,0 +1,21 @@
+{% assign r = site.data.discussion_leader_rubric %}
+<table class="rubric-print">
+  <thead>
+    <tr>
+      <th>Score</th>
+      {% for ax in r.axes %}
+        <th>{{ ax.title }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for s in (0..4) %}
+      <tr>
+        <td>{{ s }}</td>
+        {% for ax in r.axes %}
+          <td>{{ ax.levels[s] }}</td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>

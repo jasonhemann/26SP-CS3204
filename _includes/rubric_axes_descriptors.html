@@ -1,0 +1,9 @@
+{% assign r = site.data.discussion_leader_rubric %}
+{% for ax in r.axes %}
+<h4 id="{{ ax.id }}">{{ ax.title }}</h4>
+<ol start="0">
+  {% for item in ax.levels %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ol>
+{% endfor %}
