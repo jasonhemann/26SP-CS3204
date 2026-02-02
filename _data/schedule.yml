@@ -82,7 +82,9 @@ weeks:
         pre_readings:
           - title: "GEB: Little Harmonic Labyrinth; Ch 5"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Extending Factorial!"
+            link: "https://www.youtube.com/watch?v=v_HeaeUUOnc"
       - day: W
         title: "Canon by Intervallic Augmentation; Ch 6 Location of Meaning"
         topics:
