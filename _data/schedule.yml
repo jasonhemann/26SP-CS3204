@@ -38,7 +38,9 @@ weeks:
         pre_readings:
           - title: "GEB: Two-Part Invention; Ch 2"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Another multiplication algorithm and how it works (vi hart)"
+            link: "https://vimeo.com/147902001"
 
   - week_offset: 2
     homework:
