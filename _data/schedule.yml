@@ -338,7 +338,9 @@ weeks:
         pre_readings:
           - title: "Aaronson: Who Can Name the Bigger Number?"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Busy Beaver Hunters Bag #5"
+            link: "https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/"
 
   - week_offset: 16
     homework: []
