@@ -132,8 +132,9 @@ weeks:
         pre_readings:
           - title: "Nagel & Newman: chs 1–3"
         videos: []
-        extra_resources: []
-
+        extra_resources:
+          - title: "Which is better, closures or objects?"
+            link: "https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html#:~:text=The%20venerable%20master,Anton%20became%20enlightened."
   - week_offset: 6
     homework: []
     sessions:
