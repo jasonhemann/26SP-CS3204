@@ -115,7 +115,10 @@ weeks:
         extra_resources: []
 
   - week_offset: 5
-    homework: []
+    homework:
+      - title: "Assigned paper reading for Wednesday"
+        out: M
+        starter_code: "boolos-one-syllable"
     sessions:
       - day: M
         title: "A Mu Offering; Ch 9 Mumon & Godel"
@@ -124,7 +127,9 @@ weeks:
         pre_readings:
           - title: "GEB: A Mu Offering; Ch 9"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Which is better, closures or objects?"
+            link: "https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html#:~:text=The%20venerable%20master,Anton%20became%20enlightened."
       - day: W
         title: "Nagel & Newman chs 1–3 (history; arithmetization; fixed points)"
         topics:
@@ -132,9 +137,7 @@ weeks:
         pre_readings:
           - title: "Nagel & Newman: chs 1–3"
         videos: []
-        extra_resources:
-          - title: "Which is better, closures or objects?"
-            link: "https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html#:~:text=The%20venerable%20master,Anton%20became%20enlightened."
+        extra_resources: []
   - week_offset: 6
     homework: []
     sessions:
