@@ -1,8 +1,9 @@
 {
   "skip": [
-    "https://stackoverflow.com/users/\\d+",
-    "https://scholar.google.com",
-    "https://bitbucket.org/jhemann-shu"
+    "https://stackoverflow\\.com/users/\\d+",
+    "https://scholar\\.google\\.com",
+    "https://bitbucket\\.org/jhemann-shu"
+    "https://people\\.csail\\.mit\\.edu/gregs/ll1-discuss-archive-html/msg03277\\.html.*"
   ],
   "statusCodes": {
     "403": "warn"
