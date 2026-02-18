@@ -115,10 +115,7 @@ weeks:
         extra_resources: []
 
   - week_offset: 5
-    homework:
-      - title: "Assigned paper reading for Wednesday"
-        out: M
-        starter_code: "boolos-one-syllable"
+    homework: []
     sessions:
       - day: M
         title: "A Mu Offering; Ch 9 Mumon & Godel"
@@ -137,7 +134,12 @@ weeks:
         pre_readings:
           - title: "Nagel & Newman: chs 1–3"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Really nice Godel numbering programs"
+            link: "http://web.archive.org/web/20201112014512id_/http://www.nyu.edu/projects/barker/Iota/"
+          - title: "Mating with two knights"
+            link: "https://www.youtube.com/shorts/BzJzH5GuvL0"
+
   - week_offset: 6
     homework: []
     sessions:
@@ -195,7 +197,10 @@ weeks:
         extra_resources: []
 
   - week_offset: 9
-    homework: []
+    homework:
+      - title: "Assigned paper reading for Wednesday"
+        out: M
+        starter_code: "boolos-one-syllable"
     sessions:
       - day: M
         title: "Air on G's String; Ch 14 Undecidable Propositions (Godel I proof day)"
