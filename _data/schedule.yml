@@ -350,7 +350,8 @@ weeks:
         extra_resources:
           - title: "Busy Beaver Hunters Bag #5"
             link: "https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/"
-
+          - title: "What is a strange loop, and what is it like to be one?"
+            link: "https://www.youtube.com/watch?v=UT5CxsyKwxg"
   - week_offset: 16
     homework: []
     sessions:
