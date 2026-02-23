@@ -150,7 +150,9 @@ weeks:
         pre_readings:
           - title: "GEB: Prelude; Ch 10"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Summary of Femat's last theorem (archive.org link)"
+          - link: "https://web.archive.org/web/20021022220624id_/http://mathforum.org/library/drmath/view/52464.html"
       - day: W
         title: "... Ant Fugue; Ch 11 Brains & Thoughts"
         topics:
