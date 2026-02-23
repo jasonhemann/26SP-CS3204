@@ -268,6 +268,7 @@ weeks:
         extra_resources: []
       - day: W
         title: "1# / TRM; Chiang 'Seventy-Two Letters' (assign UTM)"
+
         topics:
           - desc: "1# model; live quine demo; names and descriptions; assign UTM project"
         pre_readings:
@@ -309,7 +310,9 @@ weeks:
         pre_readings:
           - title: "GEB: SHRDLU; Ch 18"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "The Thrilling Adventures of Lovelace and Babbage (Padua)"
+            link: "https://www.penguinrandomhouse.com/books/223672/the-thrilling-adventures-of-lovelace-and-babbage-by-sydney-padua/#"
       - day: W
         title: "Rapaport PoCS I (CT-thesis; what an algorithm amounts to)"
         topics:
