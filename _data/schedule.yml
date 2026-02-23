@@ -155,6 +155,8 @@ weeks:
             link: "https://web.archive.org/web/20021022220624id_/http://mathforum.org/library/drmath/view/52464.html"
           - title: "Link to related Dr.Math Archive Background (links require archive.org spelunking)"
             link: "https://web.archive.org/web/20120205182838/http://mathforum.org/dr.math/faq/faq.fermat.html"
+          - title: "Perlis: Epigrams on Programming"
+            link: "https://www.cs.yale.edu/homes/perlis-alan/quotes.html"
       - day: W
         title: "... Ant Fugue; Ch 11 Brains & Thoughts"
         topics:
