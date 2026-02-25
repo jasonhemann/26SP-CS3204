@@ -168,8 +168,13 @@ weeks:
         pre_readings:
           - title: "GEB: Ant Fugue; Ch 11"
         videos: []
-        extra_resources: []
-
+        extra_resources:
+          - title: "Platonic Representation Hypothesis"
+            link: "https://phillipi.github.io/prh/"
+          - title: "The most complex model we understand"
+            link: "https://www.youtube.com/watch?v=D8GOeCFFby4"
+          - title: "The supervenience argument against non-reductive physicalism (Andrew Russo)"
+            link: "https://philarchive.org/archive/RUSTSA-9"
   - week_offset: 7
     homework: []
     sessions:
