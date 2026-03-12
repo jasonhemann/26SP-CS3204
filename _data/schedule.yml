@@ -209,8 +209,11 @@ weeks:
         pre_readings:
           - title: "GEB: Aria with Diverse Variations; Ch 13"
         videos: []
-        extra_resources: []
-
+        extra_resources:
+          - title: "Collatz Conjecture Hailstone Sequences"
+            link: "https://en.wikipedia.org/wiki/Collatz_conjecture"
+          - title: "Prime Spirals (Cf)"
+            link: "https://www.youtube.com/watch?v=EK32jo7i5LQ"
   - week_offset: 9
     homework:
       - title: "Assigned paper reading for Wednesday"
