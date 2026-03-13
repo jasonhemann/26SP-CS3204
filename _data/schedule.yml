@@ -383,4 +383,6 @@ weeks:
         pre_readings:
           - title: "GEB: Six-Part Ricercar"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Limits of Logic: The Godel Legacy"
+            link: "https://youtu.be/V9ohtKameio?si=ZFZ1VPlShQmJW47G"
