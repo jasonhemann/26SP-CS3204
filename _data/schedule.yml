@@ -20,7 +20,9 @@ weeks:
         pre_readings:
           - title: "GEB Intro; Three-Part Invention; Ch 1 (pp. 3–42)"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "An etymological joke by autological word"
+            link: "https://www.facebook.com/share/r/1DLP1vnwQH/"
 
   - week_offset: 1
     homework: []
