@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 url                      : "https://hemann.pl"
-sourceurl                : "http://github.com/jasonhemann"
+sourceurl                : "https://github.com/"
 github                   : [metadata]
 teaser                   : "/assets/images/500x300.png"
 logo                     : "" # "/assets/images/88x88.png"
