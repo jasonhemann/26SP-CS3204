@@ -43,6 +43,8 @@ weeks:
         extra_resources:
           - title: "Another multiplication algorithm and how it works (vi hart)"
             link: "https://vimeo.com/147902001"
+          - title: "Machine recognize itself in a loop"
+            link: "https://www.facebook.com/share/p/172FCnLZPF/"
 
   - week_offset: 2
     homework:
