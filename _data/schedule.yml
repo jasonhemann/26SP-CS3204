@@ -363,7 +363,9 @@ weeks:
           - desc: "Tangled hierarchies; free will questions"
         pre_readings:
           - title: "GEB: Sloth Canon; Ch 20"
-        videos: []
+        videos:
+          - title: "Assigned Video (3B1BR)"
+            link: "https://www.youtube.com/watch?v=ldxFjLJ3rVY"
         extra_resources: []
       - day: W
         title: "Aaronson 'Who Can Name the Bigger Number?' + Busy Beaver"
