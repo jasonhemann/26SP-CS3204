@@ -260,6 +260,9 @@ weeks:
           - desc: "Reply to Lucas; what Godel does/does not imply for AI"
         pre_readings:
           - title: "Chalmers: minds, machines, and mathematics (excerpt)"
+            link: "https://consc.net/papers/penrose.html"
+          - title: "Penrose reply"
+            link: "https://web.archive.org/web/20060615025848if_/http://psyche.cs.monash.edu.au/v2/psyche-2-23-penrose.html"
         videos: []
         extra_resources: []
 
