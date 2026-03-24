@@ -264,7 +264,9 @@ weeks:
           - title: "Penrose reply"
             link: "https://web.archive.org/web/20060615025848if_/http://psyche.cs.monash.edu.au/v2/psyche-2-23-penrose.html"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Internet Encyclopedia of Philosophy entry on Lucas's argument"
+            link: "https://iep.utm.edu/lp-argue/"
 
   - week_offset: 11
     homework:
