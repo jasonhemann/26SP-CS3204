@@ -251,7 +251,6 @@ weeks:
           - desc: "Essential incompleteness; Lucas argument (critique setup)"
         pre_readings:
           - title: "GEB: Birthday Cantatatata; Ch 15"
-          - title: "Lucas summary handout (1 page)"
         videos: []
         extra_resources: []
       - day: W
@@ -267,6 +266,8 @@ weeks:
         extra_resources:
           - title: "Internet Encyclopedia of Philosophy entry on Lucas's argument"
             link: "https://iep.utm.edu/lp-argue/"
+          - title: "Searle on the Chinese Room argument (@ Google)"
+            link: "https://www.youtube.com/watch?v=rHKwIYsPXLg"
 
   - week_offset: 11
     homework:
