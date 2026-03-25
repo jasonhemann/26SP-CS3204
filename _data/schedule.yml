@@ -271,7 +271,7 @@ weeks:
   - week_offset: 11
     homework:
       - title: "Small 1# assignment (pre-class demo)"
-        due: M
+        due: W
       - title: "UTM project (universal 1#) assigned"
         out: W
     sessions:
@@ -285,14 +285,31 @@ weeks:
         extra_resources: []
       - day: W
         title: "1# / TRM; Chiang 'Seventy-Two Letters' (assign UTM)"
-
         topics:
           - desc: "1# model; live quine demo; names and descriptions; assign UTM project"
         pre_readings:
           - title: "Chiang: Seventy-Two Letters"
-          - title: "1# (TRM) quick reference"
+            link: "https://ia601600.us.archive.org/30/items/TedChiangSeventyTwoLetters/Ted_Chiang_72_Letters.pdf"
+          - title: "(Audiobook version of the above)"
+            link: "https://archive.org/details/TedChiangSeventyTwoLetters"
+          - title: "1#: a Text Register Machine Introduction to Computability Theory"
+            link: "https://web.archive.org/web/20210508160129/https://iulg.sitehost.iu.edu/trm/"
+          - title: "Getting Started with 1#"
+            link: "https://web.archive.org/web/20200403020415/https://iulg.sitehost.iu.edu/trm/startup.shtml"
+          - title: "Programs for Arithmetic"
+            link: "https://web.archive.org/web/20200403020415/https://iulg.sitehost.iu.edu/trm/arith.shtml"
+          - title: "Programs for Programs"
+            link: "https://web.archive.org/web/20200403020414/https://iulg.sitehost.iu.edu/trm/programs.shtml"
+          - title: "Self-replicating Programs"
+            link: "https://web.archive.org/web/20200403020414/https://iulg.sitehost.iu.edu/trm/self.shtml"
+          - title: "Recursion Theorems"
+            link: "https://web.archive.org/web/20200403020417/https://iulg.sitehost.iu.edu/trm/recursion.shtml"
+          - title: "Universal Programs"
+            link: "https://web.archive.org/web/20200403020415/https://iulg.sitehost.iu.edu/trm/universal.shtml"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Recursion Theorems and Self-Replication Via Text Register Machine Programs"
+            link: "https://www.researchgate.net/profile/Lawrence-Moss/publication/241055750_Recursion_Theorems_and_Self-Replication_Via_Text_Register_Machine_Programs/links/549d60880cf2b803713a757a/Recursion-Theorems-and-Self-Replication-Via-Text-Register-Machine-Programs.pdf"
 
   - week_offset: 12
     homework: []
