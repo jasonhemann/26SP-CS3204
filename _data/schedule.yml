@@ -264,6 +264,10 @@ weeks:
             link: "https://web.archive.org/web/20060615025848if_/http://psyche.cs.monash.edu.au/v2/psyche-2-23-penrose.html"
         videos: []
         extra_resources:
+          - title: "Chinese room video 1"
+            link: "https://www.youtube.com/watch?v=D0MD4sRHj1M"
+          - title: "Chinese room video 2"
+            link: "https://www.youtube.com/watch?v=TryOC83PH1g"
           - title: "Internet Encyclopedia of Philosophy entry on Lucas's argument"
             link: "https://iep.utm.edu/lp-argue/"
           - title: "Searle on the Chinese Room argument (@ Google)"
