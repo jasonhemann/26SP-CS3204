@@ -276,6 +276,7 @@ weeks:
   - week_offset: 11
     homework:
       - title: "Small 1# assignment (pre-class demo)"
+        out: M
         due: W
       - title: "UTM project (universal 1#) assigned"
         out: W
@@ -298,19 +299,19 @@ weeks:
           - title: "(Audiobook version of the above)"
             link: "https://archive.org/details/TedChiangSeventyTwoLetters"
           - title: "1#: a Text Register Machine Introduction to Computability Theory"
-            link: "https://web.archive.org/web/20210508160129/https://iulg.sitehost.iu.edu/trm/"
+            link: "https://web.archive.org/web/20210508160129if_/https://iulg.sitehost.iu.edu/trm/"
           - title: "Getting Started with 1#"
-            link: "https://web.archive.org/web/20200403020415/https://iulg.sitehost.iu.edu/trm/startup.shtml"
+            link: "https://web.archive.org/web/20200403020415if_/https://iulg.sitehost.iu.edu/trm/startup.shtml"
           - title: "Programs for Arithmetic"
-            link: "https://web.archive.org/web/20200403020415/https://iulg.sitehost.iu.edu/trm/arith.shtml"
+            link: "https://web.archive.org/web/20200403020415if_/https://iulg.sitehost.iu.edu/trm/arith.shtml"
           - title: "Programs for Programs"
-            link: "https://web.archive.org/web/20200403020414/https://iulg.sitehost.iu.edu/trm/programs.shtml"
+            link: "https://web.archive.org/web/20200403020414if_/https://iulg.sitehost.iu.edu/trm/programs.shtml"
           - title: "Self-replicating Programs"
-            link: "https://web.archive.org/web/20200403020414/https://iulg.sitehost.iu.edu/trm/self.shtml"
+            link: "https://web.archive.org/web/20200403020414if_/https://iulg.sitehost.iu.edu/trm/self.shtml"
           - title: "Recursion Theorems"
-            link: "https://web.archive.org/web/20200403020417/https://iulg.sitehost.iu.edu/trm/recursion.shtml"
+            link: "https://web.archive.org/web/20200403020417if_/https://iulg.sitehost.iu.edu/trm/recursion.shtml"
           - title: "Universal Programs"
-            link: "https://web.archive.org/web/20200403020415/https://iulg.sitehost.iu.edu/trm/universal.shtml"
+            link: "https://web.archive.org/web/20200403020415if_/https://iulg.sitehost.iu.edu/trm/universal.shtml"
         videos: []
         extra_resources:
           - title: "Recursion Theorems and Self-Replication Via Text Register Machine Programs"
