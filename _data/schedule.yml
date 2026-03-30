@@ -288,7 +288,11 @@ weeks:
         pre_readings:
           - title: "GEB: Edifying Thoughts of a Tobacco Smoker; Ch 16"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Smoke Rings (Cf \"Edifying Thoughts\")"
+            link: "https://www.youtube.com/watch?v=iVmrL5sNvss"
+          - title: "Smoke Rings (alt: Mills Brothers)"
+            link: "https://www.youtube.com/watch?v=givhnw8u8E4"
       - day: W
         title: "1# / TRM; Chiang 'Seventy-Two Letters' (assign UTM)"
         topics:
