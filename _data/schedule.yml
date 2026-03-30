@@ -293,6 +293,13 @@ weeks:
             link: "https://www.youtube.com/watch?v=iVmrL5sNvss"
           - title: "Smoke Rings (alt: Mills Brothers)"
             link: "https://www.youtube.com/watch?v=givhnw8u8E4"
+          - title: "Limerick_(poetry) on Wiki (there are some good ones!)"
+            link: "https://en.wikipedia.org/wiki/Limerick_(poetry)"
+          - title: "Henkin's Method and the Completeness Theorem (gently)"
+            link: "https://www.cs.nmsu.edu/historical-projects/Projects/Henkin-revised.pdf"
+          - title: "128-language quine relay"
+            link: "https://github.com/mame/quine-relay"
+
       - day: W
         title: "1# / TRM; Chiang 'Seventy-Two Letters' (assign UTM)"
         topics:
