@@ -336,7 +336,9 @@ weeks:
         topics: []
         pre_readings: []
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "The Computer Scientist Training AI to Think With Analogies"
+            link: "https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/"
       - day: W
         title: "The Magnificrab, Indeed; Ch 17 Church–Turing–Tarski; Pullum"
         topics:
