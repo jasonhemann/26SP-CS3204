@@ -300,7 +300,7 @@ weeks:
           - title: "128-language quine relay"
             link: "https://github.com/mame/quine-relay"
       - day: W
-        title: "1# / TRM; Chiang 'Seventy-Two Letters' (assign UTM)"
+        title: "1# / TRM (assign UTM)"
         topics:
           - desc: "1# model; live quine demo; names and descriptions; assign UTM project"
         pre_readings:
