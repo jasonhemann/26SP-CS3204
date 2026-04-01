@@ -240,7 +240,9 @@ weeks:
           - title: "Nagel & Newman: chs 6–7"
           - title: "Boolos: Godel II in words of one syllable"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Godel from an historical perspective"
+            link: "https://www.cs.nmsu.edu/historical-projects/Projects/29420110245incompleteness3.pdf"
 
   - week_offset: 10
     homework: []
