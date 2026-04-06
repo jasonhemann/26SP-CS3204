@@ -348,12 +348,13 @@ weeks:
         pre_readings:
           - title: "GEB: The Magnificrab, Indeed; Ch 17"
           - title: "Pullum: Scooping the Loop Snooper"
+            link: "https://www.lel.ed.ac.uk/~gpullum/loopsnoop.html"
         videos: []
         extra_resources: []
 
   - week_offset: 13
     homework:
-      - title: "Medium 1# assignment (due; brief in-class explanations)"
+      - title: "Medium 1# assignment (out)"
         due: M
       - title: "UTM demo (graded)"
         due: W
@@ -368,12 +369,30 @@ weeks:
         extra_resources:
           - title: "The Thrilling Adventures of Lovelace and Babbage (Padua)"
             link: "https://www.penguinrandomhouse.com/books/223672/the-thrilling-adventures-of-lovelace-and-babbage-by-sydney-padua/#"
+          - title: "Stillwell: Emil Post and His Anticipation of Gödel and Turing"
+            link: "https://doi.org/10.1080/0025570X.2004.11953222"
+          - title: "Open copy of Stillwell article"
+            link: "https://www.cs.umd.edu/~gasarch/BLOGPAPERS/EmilPost.pdf"
+          - title: "Davis: Why Gödel didn't have Church's thesis"
+            link: "https://doi.org/10.1016/S0019-9958(82)91226-8"
+          - title: "Rapaport, PhiCS draft (archived): Ch. 19 Philosophy of AI"
+            link: "https://web.archive.org/web/20211026222647if_/https://cse.buffalo.edu/~rapaport/Papers/phics.pdf#page=707"
       - day: W
-        title: "Rapaport PoCS I (CT-thesis; what an algorithm amounts to)"
+        title: "1# reinforcement (programs for programs; self-reference; UTM prep)"
         topics:
-          - desc: "Philosophy of CS: effective procedures; programs vs specifications"
+          - desc: "φ_p and program-as-data"
+          - desc: "write and s₁¹"
+          - desc: "diag and self"
+          - desc: "UTM setup"
         pre_readings:
-          - title: "Rapaport PoCS: CT-thesis notes"
+          - title: "(Reread) Programs for Programs"
+            link: "https://web.archive.org/web/20200403020414if_/https://iulg.sitehost.iu.edu/trm/programs.shtml"
+          - title: "(Reread) Self-replicating Programs"
+            link: "https://web.archive.org/web/20200403020414if_/https://iulg.sitehost.iu.edu/trm/self.shtml"
+          - title: "(Reread) Recursion Theorems"
+            link: "https://web.archive.org/web/20200403020417if_/https://iulg.sitehost.iu.edu/trm/recursion.shtml"
+          - title: "(Reread) Universal Programs"
+            link: "https://web.archive.org/web/20200403020415if_/https://iulg.sitehost.iu.edu/trm/universal.shtml"
         videos: []
         extra_resources: []
 
@@ -387,13 +406,20 @@ weeks:
         pre_readings:
           - title: "GEB: Contrafactus; Ch 19"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Dehaene et al.: What is consciousness, and could machines have it?"
+            link: "https://doi.org/10.1126/science.aan8871"
+          - title: "Rapaport, PhiCS draft (archived): Ch. 20 Computer Ethics II: AI"
+            link: "https://web.archive.org/web/20211026222647if_/https://cse.buffalo.edu/~rapaport/Papers/phics.pdf#page=753"
       - day: W
-        title: "Rapaport PoCS II (spec vs implementation; verification snapshot)"
+        title: "Rapaport PoCS grab-bag (halting, CT-thesis, implementation)"
         topics:
-          - desc: "Specs, implementations, and informal verification"
+          - desc: "Halting, CT-thesis, and implementation as semantic interpretation"
         pre_readings:
-          - title: "Rapaport PoCS: spec vs implementation notes"
+          - title: "Rapaport, PhiCS draft (archived): Ch. 7.6.7-end (WITS pp. 280–308)"
+            link: "https://web.archive.org/web/20211026222647if_/https://cse.buffalo.edu/~rapaport/Papers/phics.pdf#page=280"
+          - title: "Rapaport, PhiCS draft (archived): Ch. 14-14.3 (pp. 549–567)"
+            link: "https://web.archive.org/web/20211026222647if_/https://cse.buffalo.edu/~rapaport/Papers/phics.pdf#page=549"
         videos: []
         extra_resources: []
 
