@@ -442,6 +442,7 @@ weeks:
           - desc: "Naming power; Busy Beaver after Halting; growth beyond computable"
         pre_readings:
           - title: "Aaronson: Who Can Name the Bigger Number?"
+            link: "https://www.scottaaronson.com/writings/bignumbers.html"
         videos: []
         extra_resources:
           - title: "Busy Beaver Hunters Bag #5"
