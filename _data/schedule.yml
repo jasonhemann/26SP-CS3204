@@ -350,7 +350,9 @@ weeks:
           - title: "Pullum: Scooping the Loop Snooper"
             link: "https://www.lel.ed.ac.uk/~gpullum/loopsnoop.html"
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "\"The Man Who Knew Infinity\" (IMDB)"
+            link: "https://www.imdb.com/title/tt0787524/"
 
   - week_offset: 13
     homework:
