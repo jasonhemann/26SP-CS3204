@@ -351,6 +351,10 @@ weeks:
             link: "https://www.lel.ed.ac.uk/~gpullum/loopsnoop.html"
         videos: []
         extra_resources:
+          - title: "Gödel, Escher, Bach, and AI, by Douglas Hofstadter"
+            link: "https://www.theatlantic.com/ideas/archive/2023/07/godel-escher-bach-geb-ai/674589/"
+          - title: "Generative AI Should Not Replace Thinking at My University, by Douglas Hofstadter"
+            link: "https://www.theatlantic.com/ideas/archive/2023/06/generative-artificial-intelligence-universities/674473/"
           - title: "\"The Man Who Knew Infinity\" (IMDB)"
             link: "https://www.imdb.com/title/tt0787524/"
 
