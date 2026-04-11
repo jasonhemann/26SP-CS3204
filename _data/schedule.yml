@@ -301,6 +301,8 @@ weeks:
             link: "https://www.cs.nmsu.edu/historical-projects/Projects/Henkin-revised.pdf"
           - title: "128-language quine relay"
             link: "https://github.com/mame/quine-relay"
+          - title: "From Turing machines to computer viruses"
+            link: "https://www.jstor.org/stable/23250190?seq=1"
       - day: W
         title: "1# / TRM (assign UTM)"
         topics:
