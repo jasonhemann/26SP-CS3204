@@ -377,6 +377,8 @@ weeks:
         extra_resources:
           - title: "The Thrilling Adventures of Lovelace and Babbage (Padua)"
             link: "https://www.penguinrandomhouse.com/books/223672/the-thrilling-adventures-of-lovelace-and-babbage-by-sydney-padua/#"
+          - title: "Sutton: The Bitter Lesson"
+            link: "http://www.incompleteideas.net/IncIdeas/BitterLesson.html"
           - title: "Stillwell: Emil Post and His Anticipation of Gödel and Turing"
             link: "https://doi.org/10.1080/0025570X.2004.11953222"
           - title: "Open copy of Stillwell article"
