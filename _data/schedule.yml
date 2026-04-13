@@ -387,6 +387,8 @@ weeks:
             link: "https://doi.org/10.1016/S0019-9958(82)91226-8"
           - title: "Rapaport, PhiCS draft (archived): Ch. 19 Philosophy of AI"
             link: "https://web.archive.org/web/20211026222647if_/https://cse.buffalo.edu/~rapaport/Papers/phics.pdf#page=707"
+          - title: "An AI Model Has Officially Passed the Turing Test"
+            link: "https://futurism.com/ai-model-turing-test"
       - day: W
         title: "1# reinforcement (programs for programs; self-reference; UTM prep)"
         topics:
