@@ -23,6 +23,8 @@ weeks:
         extra_resources:
           - title: "An etymological joke by autological word"
             link: "https://www.facebook.com/share/r/1DLP1vnwQH/"
+          - title: "A more accessible example of a fugue"
+            link: "https://www.youtube.com/watch?v=6-W9ow4OL-Q#t=16s"
 
   - week_offset: 1
     homework: []
@@ -447,7 +449,9 @@ weeks:
         videos:
           - title: "Assigned Video (3B1BR)"
             link: "https://www.youtube.com/watch?v=ldxFjLJ3rVY"
-        extra_resources: []
+        extra_resources:
+          - title: "Fluxx"
+            link: "https://www.looneylabs.com/games/fluxx"
       - day: W
         title: "Aaronson 'Who Can Name the Bigger Number?' + Busy Beaver"
         topics:
