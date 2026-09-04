@@ -482,6 +482,8 @@ weeks:
           - desc: "Capstone seminar; synthesis; optional final TRM check-offs"
         pre_readings:
           - title: "GEB: Six-Part Ricercar"
+          - title: "Aaronson: LLMs and self-referentiality"
+            link: "https://scottaaronson.blog/?p=10046"
         videos: []
         extra_resources:
           - title: "Flatland: a romance of many dimensions, by A. Square"
